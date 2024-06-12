@@ -15,6 +15,7 @@
 ## Скриншоты
 
 ![результат 14](lab14res.png)
+![результат 14](lab14res1.png)
 
 ## Список использованных источников
 [лаба](https://evil-teacher.on.fleek.co/prog_pm/term2/lab14/)
